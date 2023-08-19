@@ -1,18 +1,39 @@
-Welcome to my GitHub Profile! 🐱‍🚀
-I am a Full-Stack Developer with a focus on MERN Stack Development.
+<h1 align="left">👋 Hey Everyone!</h1>
 
-🐱Skills🐱‍
-   ✔ MongoDB
-   ✔ Express
-   ✔ React
-   ✔ Node.js
+###
 
-Experience : 
-Internship | Graphics Designer | Blogger Bunny          July,2022-Sept,2022
-Part Time | MENTOR | Sheryians Coding School            Dec,2022- Present
+<p align="left">I'm Kartik lakhera and I'm a Software Developer from India</p>
 
-Contact
-Feel free to reach out to me via LinkedIn or [Email](mailto:[lakherakartik2002@gmail.com ]). I am always open to new opportunities and collaborations!
+###
 
-🐱‍Projects🐱‍
- ✔ Here are a few of my most popular projects:
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently building an Student Edtech platform named as "Astra Learning Platform"<br>🎯 Goals: To get placed in MAANG before 2025<br>🎲 Fun fact: I love to Mentor my Juniors.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
