@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently building an Student Edtech platform named as "Astra Learning Platform"<br>🎯 Goals: To get placed in MAANG before 2025<br>🎲 Fun fact: I love to Mentor my Juniors.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently building an Student Edtech platform named as "Astra Learning Platform"<br>🎯 Goals: Building my own community before 2025<br></p>
 
 ###
 
