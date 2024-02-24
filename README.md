@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently building an Student Edtech platform named as "Astra Learning Platform"<br>🎯 Goals: Building my own community before 2025<br></p>
+<p align="left">✨ Creating bugs since 2021<br>📚<br></p>
 
 ###
 
